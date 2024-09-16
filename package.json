@@ -1,0 +1,19 @@
+{
+  "name": "quadconv",
+  "version": "2.0.1",
+  "description": "Quick and easy conversions between Decimal, ASCII, Binary, and Hexadecimal",
+  "main": "index.js",
+  "keywords": [
+    "convert",
+    "converter",
+    "decimal",
+    "ascii",
+    "binary",
+    "hexadecimal",
+    "node",
+    "node.js",
+    "npm"
+  ],
+  "author": "viviancheng",
+  "license": "ISC"
+}

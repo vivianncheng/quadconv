@@ -1,0 +1,14 @@
+2.0.1 - September 9, 2024: Version Adjustments
+- Modified changelog.txt to include use proper semantic versioning
+- Updated 'Contact' section with new contact information
+
+2.0.0 (1.0.2 on NPM) - November 8, 2022: Added throw Errors
+- Option to switch between returning null/NaN/empty strings and throwing Errors
+- Fixed bugs in converting bin-dec, bin-hex
+
+1.0.1 - November 4, 2022: README.md and changelog.txt
+- Added README file, README.md
+- Added changelog, changelog.txt
+
+1.0.0 - November 4, 2022: Initial Release
+- Released .convert() for conversions between Decimal, ASCII, Binary, and Hexadecimal
